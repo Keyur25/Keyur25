@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World! 👋
+
+I am a second-year student at University College London (UCL) currently pursuing a Computer Science degree. Technology is my passion and I am particularly interested in fields of fintech, data science, and cyber security. I'm also part of a selective group in the United Kingdom that represents Microsoft as student ambassadors. My commitments go beyond the classroom as I hold executive positions within two different societies at UCL and I also teach at a kids coding camp. In my downtime, I like to play sports and I enjoy reading (I am currently reading Tuesdays With Morrie by Mitch Albon!)
+
+Below are some of my repositories, have a look through them if you wish and if you have any questions or you want to collabarate with me feel free to email me!
 
 <!--
 **Keyur25/Keyur25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
