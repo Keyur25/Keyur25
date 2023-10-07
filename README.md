@@ -1,8 +1,8 @@
 ### Hello World! 👋
 
-<p align="justify">I am a third-year student at University College London (UCL) currently pursuing a Computer Science degree. Technology is my passion and I am particularly interested in the fields of fintech, data science, and cyber security. I'm also part of a selective group in the United Kingdom that represents Microsoft as student ambassadors. My commitments go beyond the classroom as I during my second year I held executive positions within two different societies at UCL and I also teach at a kids coding camp. In my downtime, I like to play sports and I enjoy reading (I am currently reading The Path by Christine Gross-Loh and Professor Michael Puett!)</p>
+<p align="justify">I am a final student at University College London (UCL) currently pursuing a MEng Computer Science degree. Technology is my passion and I am particularly interested in the fields of fintech, data science, and cyber security. My commitments go beyond the classroom as during my second year I held executive positions within two different societies at UCL and I TA for COMP0010 Software Engineering. In my downtime, I like to read - I'm currently reading Inside The Black Box by Rishi Narang!</p>
 
-<p align="justify">Below are some of my projects, have a look through them if you wish and if you have any questions or you want to collabarate with me feel free to email me!</p>
+<p align="justify">Below are some of my projects, have a look through them if you wish and if you have any questions or you want to collaborate with me feel free to email me!</p>
 
 <!--
 **Keyur25/Keyur25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
