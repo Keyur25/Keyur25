@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-<p align="justify">Below are some of my projects, have a look through them and if you have any questions or you want to collaborate with me, feel free to email me!</p>
+<p align="justify">Below are some of my projects - if you have any questions or you want to collaborate with me, feel free to email me!</p>
 
 <!--
 **Keyur25/Keyur25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
