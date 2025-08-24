@@ -1,7 +1,5 @@
 ### Hello World! 👋
 
-<p align="justify">I am a final year student at University College London (UCL) currently pursuing a MEng Computer Science degree. Technology is my passion and I am particularly interested in high-performance computing, ML and data science. My commitments go beyond the classroom as during my second year I held executive positions within two different societies at UCL and I TA for COMP0010 Software Engineering. In my downtime, I like to read - I'm currently reading Inside The Black Box by Rishi Narang!</p>
-
 <p align="justify">Below are some of my projects, have a look through them and if you have any questions or you want to collaborate with me, feel free to email me!</p>
 
 <!--
